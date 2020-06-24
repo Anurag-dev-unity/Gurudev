@@ -1569,4 +1569,4 @@ ScriptsOnlyBuild:
   platform: 9
   scenePathNames:
   - Assets/Scenes/Guruji.unity
-  playerPath: D:/Office/arfoundation-samples-master/Builds/Ios/test1001
+  playerPath: D:/Bitbucket/Builds/Gurudev/test_gurudevios2
